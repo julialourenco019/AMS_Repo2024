@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\nsa_programmers_api.props" />
+</Project>

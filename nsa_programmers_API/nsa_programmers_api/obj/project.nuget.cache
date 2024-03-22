@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/8DAYG15t6X7PrwMqW9IQXugfCztE8+qrmef3ksrgE1NcEB4526lZBuzOqHSyUDxA47tppEyAkN95eBgNSba6w==",
+  "success": true,
+  "projectFilePath": "C:\\src\\nsa_programmers_API\\nsa_programmers_api\\nsa_programmers_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatec Taqua. 01\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\Fatec Taqua. 01\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Fatec Taqua. 01\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Fatec Taqua. 01\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Fatec Taqua. 01\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Fatec Taqua. 01\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Fatec Taqua. 01\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
